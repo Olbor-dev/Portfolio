@@ -1,3 +1,5 @@
+// Supports weights 400-700
+import '@fontsource-variable/caveat';
 import './assets/main.css'
 
 import { createApp } from 'vue'
